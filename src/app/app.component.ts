@@ -8,6 +8,7 @@ import {Usuario} from '../shared/model/usuario';
 })
 export class AppComponent {
   titulo = 'Social IFPB';
+  aluno = 'Diogo Gomes Cardoso';
   usuario: Usuario;
   usuarios: Array<Usuario>;
 
